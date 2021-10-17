@@ -8,8 +8,8 @@ function App() {
   return (
     <MainContainer>
       <Title>Phonebook</Title>
-      {/* <Form />
-      <Filter /> */}
+      <Form />
+      <Filter />
       <Contacts />
     </MainContainer>
   );
